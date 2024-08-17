@@ -103,7 +103,7 @@ header nav a {
 }
 
 .section:nth-child(even) {
-  flex-direction: row-reverse;
+  flex-direction: column;
 }
 
 .section.center {
